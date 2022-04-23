@@ -1,0 +1,16 @@
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.exe.config
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.exe
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.pdb
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.AssemblyReference.cache
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.SuggestedBindingRedirects.cache
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.CoreCompileInputs.cache
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.exe
+E:\FACULTAD\materias pendientes\complejidad\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.pdb
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.AssemblyReference.cache
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.SuggestedBindingRedirects.cache
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.csproj.CoreCompileInputs.cache
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.exe
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\obj\Debug\TP1 COMPLEJIDAD.pdb
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.exe.config
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.exe
+E:\FACULTAD\materias pendientes\complejidad\CLASE 1\tp1\proyecto visual tp1\TP1 COMPLEJIDAD\TP1 COMPLEJIDAD\bin\Debug\TP1 COMPLEJIDAD.pdb
